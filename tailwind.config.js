@@ -25,6 +25,8 @@ module.exports = {
           300: "#E2D9C8",
           400: "#C4B89E",
         },
+        // V6 brand
+        primary: "#3E4F7A",
         // Functional
         muted: "#8B8B8B",
         "section-alt": "#F4F2ED",
@@ -33,6 +35,7 @@ module.exports = {
         display: ["Playfair Display", "Georgia", "serif"],
         body: ["Inter", "system-ui", "sans-serif"],
         serif: ["Noto Serif", "Georgia", "serif"],
+        logo: ["Georgia", "serif"],
       },
       fontSize: {
         "display-xl": ["clamp(2.5rem, 5vw, 4.5rem)", { lineHeight: "1.1", letterSpacing: "-0.02em" }],
